@@ -1,5 +1,6 @@
 from pprint import  pprint as pp
 from bean.fight.AirCraft import AirCraftClass
+# from .AirCraft import AirCraftClass (check this import statement also) -> this specify in same directory(..) mean above directory.
 class Flight :
     def __init__(self,number,airCraft:AirCraftClass):
         self._number =number;

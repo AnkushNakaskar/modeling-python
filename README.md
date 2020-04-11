@@ -19,5 +19,7 @@ Service class and DAO layer in pictures**
      ```
     * Execute below cmd : 
         ```python
-       python3 ./bean/fight/Flight.py
-```
+              python3 ./bean/fight/Flight.py
+        ```
+* Below statement in Flight.py 
+    * ###### from .AirCraft import AirCraftClass (check this import statement also) -> this specify in same directory(..) mean above directory. 
