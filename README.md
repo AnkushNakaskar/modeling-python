@@ -23,3 +23,6 @@ Service class and DAO layer in pictures**
         ```
 * Below statement in Flight.py 
     * ###### from .AirCraft import AirCraftClass (check this import statement also) -> this specify in same directory(..) mean above directory. 
+
+* You can execute the code like this also in you have "__main__.py file"
+    ```python3 ./```
