@@ -11,3 +11,13 @@ Service class and DAO layer in pictures**
             ```
              def function_name(parameter1: type) -> return_type:
             ``` 
+
+* How to run from terminal 
+    * execute below cmd from terminal 
+    ```python
+           export PYTHONPATH=/Users/ankushnakaskar/Office/PersonalProject/PythonBooks/ObjectModelingInPython
+     ```
+    * Execute below cmd : 
+        ```python
+       python3 ./bean/fight/Flight.py
+```
